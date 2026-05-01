@@ -23,8 +23,8 @@ repository               : "AlexMcGinty/AlexMcGinty.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "DSC01675 (3)_0.JPG"
+  avatar           : "images/Headshot.jpg"
+  name             : "Alex McGinty"
   pronouns         : # example: "she/her"  
   bio              : "PhD student reseraching exoplanet atmospheres"
   location         : "Oxford"
